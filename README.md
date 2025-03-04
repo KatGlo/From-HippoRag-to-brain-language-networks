@@ -24,7 +24,3 @@ In this project, we apply the HippoRAG framework to analyze brain language netwo
 - [The Margins of the Language Network in the Brain](https://www.frontiersin.org/articles/10.3389/fcomm.2020.519955/full)
 - [Redefining Language Networks: Connectivity Beyond Localized Regions](https://www.frontiersin.org/articles/10.3389/fcomm.2020.519955/full)
 
-## Acknowledgments
-
-Special thanks to the developers of the HippoRAG framework and the researchers contributing to the understanding of brain language networks.
-
