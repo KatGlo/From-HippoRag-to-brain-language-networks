@@ -1,5 +1,4 @@
 # From HippoRAG to Brain Language Networks
-
 This project explores the integration of the HippoRAG framework with neural language processing networks, drawing inspiration from the hippocampal indexing theory of human long-term memory. The goal is to enhance the retrieval capabilities of large language models (LLMs) by mimicking the brain's memory mechanisms.
 
 ## Overview
